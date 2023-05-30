@@ -1,0 +1,54 @@
+/* new*/
+body{
+
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+}
+.contact{
+    box-shadow: 0  0  4px  0 rgb(255, 253, 253);
+    margin: 50px left;
+    width: 370px;
+    height: 550px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    background-color: #5C469C;
+  
+
+}
+.contact h3
+{
+    background-color: #efefef;
+    margin-top: 0px;
+    padding: 10px;
+}
+.contact input{
+    display: block;
+    width: 90%;
+    margin: 5px auto;
+    padding: 10px;
+}
+.contact textarea{
+    height: 80px;
+    width: 90%;
+    margin: 5px auto;
+    padding-left: 10px;
+}
+.btn-cls{
+    cursor: pointer;
+    width: 150px !important;
+    
+}
+.status
+{
+    font-size: 15px;
+    color: #2a1227;
+    padding: 15px;
+
+}
+.status span
+{
+   color: red;
+}
